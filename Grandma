@@ -1,0 +1,131 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aunt screams made the glass shatter 😱</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffffff;
+            padding: 20px;
+        }
+        .video-title {
+            font-size: 1em;
+            font-weight: bold;
+            margin-bottom: 18px;
+            letter-spacing: 1px;
+            color: black;
+        }
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            max-width: 720px;
+            margin: 0 auto;
+        }
+        video {
+            width: 100%;
+            max-width: 100%;
+            border-radius: 10px;
+            display: block;
+        }
+        .ad-banner-inside {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 320px;
+            height: 50px;
+            background: rgba(255,255,255,0.92);
+            border-radius: 10px 10px 0 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2;
+            overflow: hidden;
+        }
+        
+        /* CSS untuk placeholder iklan */
+        .ad-placeholder {
+            border: 2px dashed #ccc;
+            padding: 20px;
+            background: #f9f9f9;
+            margin: 10px auto;
+            max-width: 468px; /* Anda bisa sesuaikan ini */
+        }
+
+        /* CSS untuk Tombol/Link Aksi */
+        .action-button-style {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background-color: #000000;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+            padding: 16px 28px;
+            border-radius: 8px;
+            text-decoration: none; /* Ini penting agar tidak ada garis bawah */
+            box-shadow: 0 0 15px rgba(255 255 255 / 80%);
+            animation: blink 1.5s infinite;
+            cursor: pointer; /* Menjaga kursor tangan */
+        }
+        
+        /* Animasi blink */
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        @media (max-width: 400px) {
+            .ad-banner-inside {
+                width: 95vw;
+                height: 40px;
+                font-size: 0.85em;
+            }
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="video-title">Aunt screams made the glass shatter 😱<span aria-label="smile" role="img"></span></div>
+
+    <div class="ad-placeholder">
+        <p><strong><script type="text/javascript">
+	atOptions = {
+		'key' : 'a2a3ac5ed49021ba93d032422e4be208',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/a2a3ac5ed49021ba93d032422e4be208/invoke.js"></script></strong></p>
+        </div>
+    <br>
+    
+    <div class="video-wrapper">
+        <video autoplay loop playsinline controls poster="https://cdn.aceimg.com/53776d659.jpg">
+            <source src="https://cdn.slicedrive.com/8UqbfmCv1.mp4" type="video/mp4">
+        </video>
+        
+        <div style="text-align: center; margin: 30px 0;">
+            <a href="https://www.effectivegatecpm.com/pv0d1hf1zp?key=134a54d8e5a7f4759979ed8230e8b41e" class="action-button-style">
+                ▶ FULL HD VIDEO
+            </a>
+        </div>
+        </div>
+<br>
+</body>
+</html>
+ <script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4960392,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text-javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4960392&101" alt="" border="0"></a></noscript>
